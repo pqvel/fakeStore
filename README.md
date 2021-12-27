@@ -1,1 +1,1 @@
-# https://pqvel.github.io
+# https://pqvel.github.io/fakeStore/
