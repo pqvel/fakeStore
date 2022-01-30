@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/weatherAPI.github.io/static/css/main.d7ac1436.chunk.css",
-    "main.js": "/weatherAPI.github.io/static/js/main.4a3b494b.chunk.js",
-    "main.js.map": "/weatherAPI.github.io/static/js/main.4a3b494b.chunk.js.map",
-    "runtime-main.js": "/weatherAPI.github.io/static/js/runtime-main.773c9e20.js",
-    "runtime-main.js.map": "/weatherAPI.github.io/static/js/runtime-main.773c9e20.js.map",
-    "static/js/2.210bccab.chunk.js": "/weatherAPI.github.io/static/js/2.210bccab.chunk.js",
-    "static/js/2.210bccab.chunk.js.map": "/weatherAPI.github.io/static/js/2.210bccab.chunk.js.map",
-    "index.html": "/weatherAPI.github.io/index.html",
-    "static/css/main.d7ac1436.chunk.css.map": "/weatherAPI.github.io/static/css/main.d7ac1436.chunk.css.map",
-    "static/js/2.210bccab.chunk.js.LICENSE.txt": "/weatherAPI.github.io/static/js/2.210bccab.chunk.js.LICENSE.txt",
-    "static/media/cart.47495f61.svg": "/weatherAPI.github.io/static/media/cart.47495f61.svg",
-    "static/media/empty-box.7ec5aa8d.jpg": "/weatherAPI.github.io/static/media/empty-box.7ec5aa8d.jpg",
-    "static/media/error.26c4250f.jpg": "/weatherAPI.github.io/static/media/error.26c4250f.jpg",
-    "static/media/error404.27dfa202.png": "/weatherAPI.github.io/static/media/error404.27dfa202.png",
-    "static/media/heart.1978922e.svg": "/weatherAPI.github.io/static/media/heart.1978922e.svg",
-    "static/media/search.a9f70789.svg": "/weatherAPI.github.io/static/media/search.a9f70789.svg"
+    "main.css": "/fakeStore/static/css/main.b4ece412.chunk.css",
+    "main.js": "/fakeStore/static/js/main.fcff679f.chunk.js",
+    "main.js.map": "/fakeStore/static/js/main.fcff679f.chunk.js.map",
+    "runtime-main.js": "/fakeStore/static/js/runtime-main.9383b6d8.js",
+    "runtime-main.js.map": "/fakeStore/static/js/runtime-main.9383b6d8.js.map",
+    "static/js/2.7d01a2d2.chunk.js": "/fakeStore/static/js/2.7d01a2d2.chunk.js",
+    "static/js/2.7d01a2d2.chunk.js.map": "/fakeStore/static/js/2.7d01a2d2.chunk.js.map",
+    "index.html": "/fakeStore/index.html",
+    "static/css/main.b4ece412.chunk.css.map": "/fakeStore/static/css/main.b4ece412.chunk.css.map",
+    "static/js/2.7d01a2d2.chunk.js.LICENSE.txt": "/fakeStore/static/js/2.7d01a2d2.chunk.js.LICENSE.txt",
+    "static/media/cart.47495f61.svg": "/fakeStore/static/media/cart.47495f61.svg",
+    "static/media/empty-box.7ec5aa8d.jpg": "/fakeStore/static/media/empty-box.7ec5aa8d.jpg",
+    "static/media/error.26c4250f.jpg": "/fakeStore/static/media/error.26c4250f.jpg",
+    "static/media/error404.27dfa202.png": "/fakeStore/static/media/error404.27dfa202.png",
+    "static/media/heart.1978922e.svg": "/fakeStore/static/media/heart.1978922e.svg",
+    "static/media/search.a9f70789.svg": "/fakeStore/static/media/search.a9f70789.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.773c9e20.js",
-    "static/js/2.210bccab.chunk.js",
-    "static/css/main.d7ac1436.chunk.css",
-    "static/js/main.4a3b494b.chunk.js"
+    "static/js/runtime-main.9383b6d8.js",
+    "static/js/2.7d01a2d2.chunk.js",
+    "static/css/main.b4ece412.chunk.css",
+    "static/js/main.fcff679f.chunk.js"
   ]
 }
