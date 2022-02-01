@@ -1,0 +1,22 @@
+.error-message {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    border: 2px solid rgb(224, 17, 17);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+
+    &__img {
+        object-fit: contain;
+        height: 80px;
+        margin-right: 20px;
+    }
+
+    &__text {
+        font-size: 1.25rem; // 20px
+        color: rgb(243, 0, 0);
+        margin: 0.5em;
+    }
+}

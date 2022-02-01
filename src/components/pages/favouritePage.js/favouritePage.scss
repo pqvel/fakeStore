@@ -1,0 +1,12 @@
+.favourite-page {
+    
+    width: 100%;
+    height: 100%;
+    
+    &__container {
+        display: flex;
+        flex-direction: column;
+        max-width: 1240px;
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,88 @@
+.product-input {
+    position: relative;
+    display: block;
+    
+    &__input {
+        padding-right: 3.4ex;
+        box-sizing: border-box; 
+        font-size: inherit;
+        padding-left: 3.4ex;
+        text-align: center;
+
+        &::-webkit-outer-spin-button,
+        &::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+            -moz-appearance: textfield;
+        }
+
+        &:focus {
+            outline: none;
+        }
+
+    }
+
+    &__plus {
+        position: absolute; 
+        right: 2px; 
+        width: 3.3ex;
+        border-color: rgba(0, 0, 0, 0.1); 
+        border-style: solid; 
+        text-align: center; 
+        cursor: default; 
+        transition: all 0.1s ease 0s;
+        background: rgba(0, 0, 0, 0.1); 
+        box-shadow: none;
+        top: 2px;
+        bottom: 2px;
+        border-radius: 2px; 
+        border-width: 1px;
+
+        &-item-1 {
+            position: absolute; 
+            top: 50%; 
+            left: 50%; 
+            width: 10px; 
+            height: 2px; 
+            margin: -1px 0px 0px -5px; 
+            background: rgba(0, 0, 0, 0.7);
+        }
+        
+        &-item-2 {
+            position: absolute; 
+            top: 50%; 
+            left: 50%; 
+            width: 2px; 
+            height: 10px; 
+            background: rgba(0, 0, 0, 0.7); 
+            margin: -5px 0px 0px -1px;
+        }
+    }
+
+    &__minus {
+        position: absolute; 
+        inset: 2px auto 2px 2px; 
+        width: 3.3ex; 
+        border-color: rgba(0, 0, 0, 0.1); 
+        border-style: solid; 
+        text-align: center; 
+        cursor: default; 
+        transition: all 0.1s ease 0s; 
+        background: rgba(0, 0, 0, 0.1); 
+        box-shadow: none; 
+        border-radius: 2px; 
+        border-width: 1px;
+
+        &-item-1 {
+            position: absolute; 
+            top: 50%; 
+            left: 50%; 
+            width: 10px; 
+            height: 2px; 
+            margin: -1px 0px 0px -5px; 
+            background: rgba(0, 0, 0, 0.7);
+        }
+    }
+
+
+}
